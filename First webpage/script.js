@@ -9,5 +9,4 @@ for (var h = 1; h < 200; h += 2) {
   oneToTwoHundred.push(h)
 }
 console.log(oneToTwoHundred);
-
 </script>
